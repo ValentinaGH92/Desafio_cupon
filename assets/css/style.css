@@ -1,0 +1,41 @@
+.nav-color {
+    background: #1d8f23;
+  }
+  .nav-a-color a {
+    color: white;
+  }
+  
+  .nav-a-color a:hover {
+    color: #fbd7c3;
+  }
+  
+  .logo-imagen {
+    max-height: 50px;
+  }
+  
+  .color-footer {
+    color: #399123;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  a,
+  input,
+  button {
+    font-family: "Lato", sans-serif;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card-padding-bottom {
+    padding-bottom: 40px;
+    /* height: 100%; */
+  }
